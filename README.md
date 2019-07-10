@@ -10,6 +10,6 @@ npm install
 
 ## Usage
 
-`npm run dev` - development build
+`npm run dev` or `npm start` - development build
 
 `npm run build` - production build
